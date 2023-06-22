@@ -162,3 +162,4 @@ cython_debug/
 sun_or_not/
 galaxy.jpg
 sun.jpg
+model.pkl
